@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 Cancel my appointment was not scheduled I need to speak to someone,cncl appt
 Yes cancel the appointment for Sunday,cncl appt
 I don't need an appointment when TV is working,cncl appt
