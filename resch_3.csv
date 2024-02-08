@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 No reschedule for later in the day,rschdle appt
 Make it later in the day,rschdle appt
 I need to keep the appointment for today,rschdle appt
