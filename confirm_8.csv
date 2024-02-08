@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 I have no electricity check,cnfm appt
 Connect me with a technician,cnfm appt
 Hello connect me to the technician,cnfm appt
