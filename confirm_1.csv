@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 I want an appointment for January twenty fifth between twelve and one,cnfm appt
 Send confirmation number,cnfm appt
 Correct,cnfm appt
