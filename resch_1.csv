@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 Change my appointment,rschdle appt
 I need to reschedule it,rschdle appt
 Reschedule it,rschdle appt
