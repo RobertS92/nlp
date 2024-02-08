@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 No I don't know it what did you say you were gonna do without my permission,Repeat
 Repeat,Repeat
 Reset,Repeat
