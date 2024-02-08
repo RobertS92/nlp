@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 Returning a call from the technician,cnfm appt
 I didn't receive a phone call,cnfm appt
 Lafayette man just checking to see where is daddy's grocery Bancaire,cnfm appt
