@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 Technician is not here as scheduled,cnfm appt
 Technician is not here,cnfm appt
 The technician is not here,cnfm appt
