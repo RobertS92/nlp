@@ -1,4 +1,4 @@
-Input,INTENT
+input,intent
 I want to cancel the appointment my system is working,cncl appt
 I did not know that we needed to be here,cncl appt
 Anything for today cancellation for today,cncl appt
